@@ -1,2 +1,2 @@
 # CV
-MY Amatuer CV
+ONLY HTML CV
